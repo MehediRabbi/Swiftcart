@@ -6,12 +6,12 @@ This project dynamically fetches product data from the **FakeStore API**.
 ---
 
 ## 🚀 Live Demo
-🔗 Live Link: YOUR_DEPLOYED_URL_HERE
+🔗 Live Link: https://swiftcart-pearl.vercel.app/
 
 ---
 
 ## 📦 GitHub Repository
-🔗 Repo Link: YOUR_REPO_URL_HERE
+🔗 Repo Link: https://github.com/MehediRabbi/Swiftcart
 
 ---
 
